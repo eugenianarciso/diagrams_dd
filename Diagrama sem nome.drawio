@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T22:50:21.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" version="20.5.1" etag="w0XXfQOGQSur98a8r42O" type="github"><diagram id="D0BnEPBHgKbLKha-eheF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-02T23:10:47.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="QHXOWfhekTpxil9Ls7K6" version="20.5.1" type="github">
+  <diagram id="D0BnEPBHgKbLKha-eheF" name="Página-1">
+    <mxGraphModel dx="811" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-1" value="Parte A&lt;br&gt;&lt;b&gt;USER A&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-2" value="Parte B&lt;br&gt;&lt;b&gt;USER A e B&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-3" value="Questionário&amp;nbsp; de monitorização" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-6" value="Inicia, editar e consulta o questionário" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="540" y="137" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.017;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jwrrGk7fc2D3mUX76oG3-1" target="jwrrGk7fc2D3mUX76oG3-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="190" as="sourcePoint" />
+            <mxPoint x="550" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-11" value="Consulta e edita o questionário" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jwrrGk7fc2D3mUX76oG3-2" target="jwrrGk7fc2D3mUX76oG3-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="300" as="sourcePoint" />
+            <mxPoint x="570.7106781186548" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-15" value="Gestor do questionário" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-17" value="Adiciona questionário de monitorização" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-18" value="Adiciona seção&amp;nbsp;&lt;br&gt;Parte A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-19" value="Adiciona seção&amp;nbsp;&lt;br&gt;Parte B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-20" value="Questionário concluido?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="370" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-21" value="Adiciona como inquirido&amp;nbsp;&lt;br&gt;&lt;b&gt;USER A&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-23" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;fillStyle=dashed;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="60" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-25" value="Análise de Dados&lt;br&gt;&lt;b&gt;USER B e C&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-27" value="Questionário disponibilizado?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="584.5" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-28" value="&lt;b&gt;USER A&lt;/b&gt; responde ao questionário (Parte A e B se apliável)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-29" value="A data final do questionário foi atingida?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="840" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-30" value="&lt;b&gt;USER A&lt;/b&gt; partilha respostas com &lt;b&gt;USER B&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-31" value="Questões foram submetidas?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="715" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-34" value="USER B alterou a parte B)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="820" width="110" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
