@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T09:36:43.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="iOV1vWIEhmu4YKMBnPvG" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T09:37:29.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="uyo4haQdXZCcerFvhpYp" version="21.1.2" type="github">
   <diagram id="D0BnEPBHgKbLKha-eheF" name="Página-1">
-    <mxGraphModel dx="796" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,7 +237,7 @@
         <mxCell id="jwrrGk7fc2D3mUX76oG3-89" value="Adiciona questionário&amp;nbsp;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zQIU5gyM2d5_5poPDXwg-7" vertex="1">
           <mxGeometry x="70" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jwrrGk7fc2D3mUX76oG3-90" value="Adiciona seções" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zQIU5gyM2d5_5poPDXwg-7" vertex="1">
+        <mxCell id="jwrrGk7fc2D3mUX76oG3-90" value="Adiciona seções e público-alvo" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zQIU5gyM2d5_5poPDXwg-7" vertex="1">
           <mxGeometry x="70" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jwrrGk7fc2D3mUX76oG3-91" value="Adiciona perguntas" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="zQIU5gyM2d5_5poPDXwg-7" vertex="1">
