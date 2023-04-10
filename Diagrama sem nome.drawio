@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T10:24:17.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="LigCn7FqDjxuSdB8NhY4" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T10:55:18.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="la1kwSusCikLqe1dCEfk" version="21.1.2" type="github">
   <diagram id="D0BnEPBHgKbLKha-eheF" name="Página-1">
-    <mxGraphModel dx="1011" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="963" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,7 +226,7 @@
           <mxGeometry x="360" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zQIU5gyM2d5_5poPDXwg-7" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="940" y="530" width="520" height="260" as="geometry" />
+          <mxGeometry x="920" y="530" width="520" height="260" as="geometry" />
         </mxCell>
         <mxCell id="jwrrGk7fc2D3mUX76oG3-87" value="&lt;h1&gt;Gestor&lt;/h1&gt;&lt;p&gt;Competências/permissões para adicionar um questionário em seu nome ou por outro utilizador identificado como responsável.&lt;/p&gt;&lt;p&gt;O gestor também se pode adicionar como inquirido e tem sempre acesso à análise de dados.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fillStyle=auto;" parent="zQIU5gyM2d5_5poPDXwg-7" vertex="1">
           <mxGeometry width="520" height="120" as="geometry" />
@@ -395,6 +395,9 @@
             <mxPoint x="2070" y="479.54999999999995" as="sourcePoint" />
             <mxPoint x="1934" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BCpegV23agACHmfFRPxo-2" value="Considerar&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="360" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
