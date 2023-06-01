@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T14:39:02.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="QgS5xNwsIYoLJUcTnBq6" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T16:52:18.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="HEFN23HliMeM7v6YAWU9" version="21.3.2" type="github">
   <diagram name="Página-1" id="qQ_YKITx-wi90P2Q5lhj">
     <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,14 +175,17 @@
         <mxCell id="m0IQ9tP__pudJ74qpNvk-58" value="Determinação da comunicação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="1650" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-60" value="DGE&lt;br&gt;Diretor/a de Serviços dá parecer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333.5" y="1840" width="120" height="60" as="geometry" />
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-60" value="DGAE&lt;br&gt;Diretor/a de Serviços dá parecer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="1850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-61" value="DGE&lt;br&gt;Diretor/a de Serviços dá despacho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333.5" y="2040" width="120" height="60" as="geometry" />
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-61" value="DGAE&lt;br&gt;Diretor/a Geral dá despacho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339.75" y="2070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-62" value="Parecer favorável?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1930" width="90" height="80" as="geometry" />
+          <mxGeometry x="350" y="1940" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-63" value="Técnico/a DGAE&lt;br&gt;conclui análise técnica do pedido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333.5" y="1740" width="131" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
