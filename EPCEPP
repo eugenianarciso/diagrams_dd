@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T11:35:02.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="7Iu8ZGQpeIzafNucuQG1" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-01T14:39:02.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="QgS5xNwsIYoLJUcTnBq6" version="21.3.2" type="github">
   <diagram name="Página-1" id="qQ_YKITx-wi90P2Q5lhj">
     <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,25 +26,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-7" value="Submete &lt;br&gt;pedido com &lt;br&gt;sucesso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="369" y="460" width="90" height="80" as="geometry" />
+          <mxGeometry x="369" y="430" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-9" value="DGEstE DSR&lt;br&gt;inicia análise e validação&amp;nbsp; documental" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-9" value="Técnico/a DGEstE DSR&lt;br&gt;inicia análise e validação&amp;nbsp; documental" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="520" width="131" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-13" value="DGE&lt;br&gt;inicia análise&amp;nbsp;&lt;br&gt;&amp;nbsp;e validação curricular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-13" value="Técnico/a DGE&lt;br&gt;inicia análise&amp;nbsp;&lt;br&gt;&amp;nbsp;e validação curricular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="525" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-14" value="DGEstE DSR&lt;br&gt;realiza vistoria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-14" value="Técnico/a DGEstE DSR&lt;br&gt;realiza vistoria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="129" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-15" value="Análise e validação com sucesso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="690" width="90" height="80" as="geometry" />
+          <mxGeometry x="144" y="610" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-16" value="Vistoria realizada com sucesso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="940" width="90" height="80" as="geometry" />
+          <mxGeometry x="139" y="830" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-17" value="DGEstE DSR&lt;br&gt;dá parecer&lt;br&gt;DGEstE SC&lt;br&gt;dá despacho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1100" width="120" height="60" as="geometry" />
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-17" value="Técnico/a DGEstE DSR&lt;br&gt;concluí análise técnica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-18" value="Documentação da Entidade Titular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="49" y="360" width="90" height="40" as="geometry" />
@@ -132,6 +132,57 @@
               <mxPoint x="734" y="330" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-38" value="Análise e validação com sucesso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="820" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-40" value="Plano próprios/currículo estrangeiro?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="645" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-41" value="Técnico/a DGE&lt;br&gt;realiza análise&amp;nbsp;&lt;br&gt;&amp;nbsp;e validação curricular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="689" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-42" value="DGEstE DSR&lt;br&gt;Delegado/a Regional dá parecer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="124" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-43" value="DGEstE SC&lt;br&gt;Diretor/a Geral dá despacho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-44" value="Técnico/a DGE&lt;br&gt;concluí análise&amp;nbsp;&lt;br&gt;&amp;nbsp;curricular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-45" value="DGE&lt;br&gt;Diretor/a de Serviços dá parecer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-46" value="DGE&lt;br&gt;Diretor/a de Serviços dá despacho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-51" value="Parecer favorável?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1180" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-52" value="Despacho deferido?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1390" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-54" value="Técnico/a DGAE&lt;br&gt;inicia análise técnica do pedido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="1550" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-56" value="Enquadramento legislativo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1650" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-57" value="Determinação da proposta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1650" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-58" value="Determinação da comunicação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1650" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-60" value="DGE&lt;br&gt;Diretor/a de Serviços dá parecer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333.5" y="1840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-61" value="DGE&lt;br&gt;Diretor/a de Serviços dá despacho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333.5" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-62" value="Parecer favorável?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1930" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
