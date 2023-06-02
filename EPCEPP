@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T16:21:06.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="_hTOxm3-jQwy2hFyRcoB" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T16:40:16.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="PfAagT_aZ2_8B0u7cZ5A" version="21.3.2" type="github">
   <diagram name="Página-1" id="qQ_YKITx-wi90P2Q5lhj">
     <mxGraphModel dx="1394" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,10 +176,10 @@
           <mxGeometry x="479" y="1629" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-60" value="DGAE&lt;br&gt;Diretor/a de Serviços dá parecer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1850" width="120" height="60" as="geometry" />
+          <mxGeometry x="349.25" y="1840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-61" value="DGAE&lt;br&gt;Diretor/a Geral dá despacho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2070" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-62" value="Parecer favorável?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="1940" width="90" height="80" as="geometry" />
@@ -446,7 +446,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-108" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="344.5" y="2200" width="120" height="50" as="geometry" />
+          <mxGeometry x="350" y="2200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-111" value="Não" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-7" target="m0IQ9tP__pudJ74qpNvk-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -458,7 +458,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-112" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="m0IQ9tP__pudJ74qpNvk-108">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-112" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-61" target="m0IQ9tP__pudJ74qpNvk-108">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="2130" as="sourcePoint" />
             <mxPoint x="455" y="2080" as="targetPoint" />
@@ -537,7 +537,7 @@
             <mxPoint x="130" y="1216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-138" value="DD notifica &lt;br&gt;Diretor/a de &lt;br&gt;Serviços e &lt;br&gt;Técnico/a DGE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-138" value="DD notifica &lt;br&gt;Técnico/a DGE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="704" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-139" value="Não" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-51" target="m0IQ9tP__pudJ74qpNvk-138">
@@ -560,13 +560,7 @@
             <mxPoint x="-9" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-145" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-45">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="1150" as="sourcePoint" />
-            <mxPoint x="760" y="1091" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-146" value="DD notifica &lt;br&gt;Delegado/a &lt;br&gt;Regional e&amp;nbsp;&lt;br&gt;Técnico/a DGEstE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-146" value="DD notifica &lt;br&gt;Técnico/a DGEstE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="1190" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-147" value="Pedido de revisão da&lt;br&gt;análise técnica e/ou vistoria&amp;nbsp;&lt;br&gt;e/ou análise e/ou validação" style="endArrow=classic;html=1;rounded=0;entryX=0.007;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-146" target="m0IQ9tP__pudJ74qpNvk-17">
@@ -578,10 +572,52 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-148" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="m0IQ9tP__pudJ74qpNvk-42">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-149" value="DD notifica &lt;br&gt;Diretor/a de &lt;br&gt;Serviços" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="704" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-150" value="DD notifica &lt;br&gt;Delegado/a &lt;br&gt;Regional" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1400" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-151" value="Não" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-52" target="m0IQ9tP__pudJ74qpNvk-150">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="1090" as="sourcePoint" />
-            <mxPoint x="170" y="1090" as="targetPoint" />
+            <mxPoint x="360" y="1430" as="sourcePoint" />
+            <mxPoint x="134.11" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-152" value="Não" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-52" target="m0IQ9tP__pudJ74qpNvk-149">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="1450" as="sourcePoint" />
+            <mxPoint x="610" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-156" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-150" target="m0IQ9tP__pudJ74qpNvk-146">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="1360" as="sourcePoint" />
+            <mxPoint x="150" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-157" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-149" target="m0IQ9tP__pudJ74qpNvk-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="764" y="1390" as="sourcePoint" />
+            <mxPoint x="390" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-158" value="DD notifica &lt;br&gt;Técnico/a DGAE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="533" y="1950" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-162" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-62" target="m0IQ9tP__pudJ74qpNvk-158">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1970" as="sourcePoint" />
+            <mxPoint x="520" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-163" value="&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(24, 20, 29); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Pedido de revisão da&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(24, 20, 29); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;análise&amp;nbsp;&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-158" target="m0IQ9tP__pudJ74qpNvk-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1850" as="sourcePoint" />
+            <mxPoint x="690" y="1800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="603" y="1754" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
