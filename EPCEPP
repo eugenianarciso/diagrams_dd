@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T16:48:59.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="1HYDmcnoREbMHcaelFnj" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T17:09:30.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="MY5d57IlSnAls-BjQRUg" version="21.3.2" type="github">
   <diagram name="Página-1" id="qQ_YKITx-wi90P2Q5lhj">
-    <mxGraphModel dx="1394" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,13 +28,13 @@
         <mxCell id="m0IQ9tP__pudJ74qpNvk-7" value="Submete &lt;br&gt;pedido com &lt;br&gt;sucesso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389.75" y="445" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-9" value="Técnico/a DGEstE DSR&lt;br&gt;inicia análise e validação documental" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-9" value="Técnico/a DGEstE DSR&lt;br&gt;inicia análise e validação documental" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2da1d2;fontColor=#0d0d0d;" vertex="1" parent="1">
           <mxGeometry x="177" y="520" width="131" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-13" value="Técnico/a DGE&lt;br&gt;inicia análise&amp;nbsp;&lt;br&gt;&amp;nbsp;e validação curricular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-13" value="Técnico/a DGE&lt;br&gt;inicia análise&amp;nbsp;&lt;br&gt;&amp;nbsp;e validação curricular" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8cd08b;fontColor=#080808;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="563" y="521" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-14" value="Técnico/a DGEstE DSR&lt;br&gt;realiza vistoria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-14" value="Técnico/a DGEstE DSR&lt;br&gt;realiza vistoria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2da1d2;fontColor=#0d0d0d;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-15" value="Análise e validação com sucesso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
         <mxCell id="m0IQ9tP__pudJ74qpNvk-16" value="Vistoria realizada com sucesso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="197.5" y="830" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-17" value="Técnico/a DGEstE DSR&lt;br&gt;concluí análise técnica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-17" value="Técnico/a DGEstE DSR&lt;br&gt;concluí análise técnica" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2da1d2;fontColor=#0d0d0d;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-18" value="Documentação da Entidade Titular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -139,22 +139,22 @@
         <mxCell id="m0IQ9tP__pudJ74qpNvk-40" value="Currículo estrangeiro e internacional?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="573" y="601" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-41" value="Técnico/a DGE&lt;br&gt;realiza análise&amp;nbsp;&lt;br&gt;&amp;nbsp;e validação curricular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-41" value="Técnico/a DGE&lt;br&gt;realiza análise&amp;nbsp;&lt;br&gt;&amp;nbsp;e validação curricular" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8cd08b;fontColor=#080808;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="568" y="721" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-42" value="DGEstE DSR&lt;br&gt;Delegado/a Regional dá parecer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-42" value="DGEstE DSR&lt;br&gt;Delegado/a Regional dá parecer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2da1d2;fontColor=#0d0d0d;" vertex="1" parent="1">
           <mxGeometry x="182.5" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-43" value="DGEstE SC&lt;br&gt;Diretor/a Geral dá despacho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-43" value="DGEstE SC&lt;br&gt;Diretor/a Geral dá despacho" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2da1d2;fontColor=#0d0d0d;" vertex="1" parent="1">
           <mxGeometry x="201" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-44" value="Técnico/a DGE&lt;br&gt;concluí análise&amp;nbsp;&lt;br&gt;&amp;nbsp;curricular" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-44" value="Técnico/a DGE&lt;br&gt;concluí análise&amp;nbsp;&lt;br&gt;&amp;nbsp;curricular" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8cd08b;fontColor=#080808;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="568" y="961" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-45" value="DGE&lt;br&gt;Diretor/a de Serviços dá parecer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-45" value="DGE&lt;br&gt;Diretor/a de Serviços dá parecer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8cd08b;fontColor=#080808;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="568" y="1061" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-46" value="DGE&lt;br&gt;Diretor/a de Serviços dá despacho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-46" value="DGE&lt;br&gt;Diretor/a de Serviços dá despacho" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8cd08b;fontColor=#080808;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="503" y="1289" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-51" value="Parecer favorável?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -172,13 +172,13 @@
         <mxCell id="m0IQ9tP__pudJ74qpNvk-57" value="Determinação da proposta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364.25" y="1615" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-58" value="Determinação da comunicação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-58" value="Determinação da comunicação" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8da72;fontColor=#0d0c0c;" vertex="1" parent="1">
           <mxGeometry x="479" y="1614" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-60" value="DGAE&lt;br&gt;Diretor/a de Serviços dá parecer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-60" value="DGAE&lt;br&gt;Diretor/a de Serviços dá parecer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8da72;fontColor=#0d0c0c;" vertex="1" parent="1">
           <mxGeometry x="349.25" y="1825" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-61" value="DGAE&lt;br&gt;Diretor/a Geral dá despacho" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-61" value="DGAE&lt;br&gt;Diretor/a Geral dá despacho" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8da72;fontColor=#0d0c0c;" vertex="1" parent="1">
           <mxGeometry x="350" y="2045" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-62" target="m0IQ9tP__pudJ74qpNvk-61">
@@ -187,7 +187,7 @@
         <mxCell id="m0IQ9tP__pudJ74qpNvk-62" value="Parecer favorável?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="1925" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-63" value="Técnico/a DGAE&lt;br&gt;conclui análise técnica do pedido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-63" value="Técnico/a DGAE&lt;br&gt;conclui análise técnica do pedido" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8da72;fontColor=#0d0c0c;" vertex="1" parent="1">
           <mxGeometry x="344.5" y="1709" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-22" target="m0IQ9tP__pudJ74qpNvk-7">
@@ -449,7 +449,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-108" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="2260" width="120" height="50" as="geometry" />
+          <mxGeometry x="540" y="2275" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-111" value="Não" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-7" target="m0IQ9tP__pudJ74qpNvk-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -461,7 +461,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-119" value="DD notifica requerente" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-119" value="DD notifica requerente" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a09fa3;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="20" y="615" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-120" value="Não" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-15" target="m0IQ9tP__pudJ74qpNvk-119">
@@ -484,7 +484,7 @@
             <mxPoint x="90" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-124" value="DD notifica requerente" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-124" value="DD notifica requerente" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a09fa3;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="704" y="831" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-127" value="Não" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-38" target="m0IQ9tP__pudJ74qpNvk-124">
@@ -534,7 +534,7 @@
             <mxPoint x="130" y="1216" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-138" value="DD notifica &lt;br&gt;Técnico/a DGE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-138" value="DD notifica &lt;br&gt;Técnico/a DGE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a09fa3;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="704" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-139" value="Não" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-51" target="m0IQ9tP__pudJ74qpNvk-138">
@@ -557,7 +557,7 @@
             <mxPoint x="-9" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-146" value="DD notifica &lt;br&gt;Técnico/a DGEstE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-146" value="DD notifica &lt;br&gt;Técnico/a DGEstE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a09fa3;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="20" y="1190" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-147" value="Pedido de revisão da&lt;br&gt;análise técnica e/ou vistoria&amp;nbsp;&lt;br&gt;e/ou análise e/ou validação" style="endArrow=classic;html=1;rounded=0;entryX=0.007;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-146" target="m0IQ9tP__pudJ74qpNvk-17">
@@ -569,10 +569,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-149" value="DD notifica &lt;br&gt;Diretor/a de &lt;br&gt;Serviços" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-149" value="DD notifica &lt;br&gt;Diretor/a de &lt;br&gt;Serviços DGE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a09fa3;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="704" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-150" value="DD notifica &lt;br&gt;Delegado/a &lt;br&gt;Regional" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-150" value="DD notifica &lt;br&gt;Delegado/a &lt;br&gt;Regional" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a09fa3;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="20" y="1400" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-151" value="Não" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-52" target="m0IQ9tP__pudJ74qpNvk-150">
@@ -599,7 +599,7 @@
             <mxPoint x="390" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-158" value="DD notifica &lt;br&gt;Técnico/a DGAE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-158" value="DD notifica &lt;br&gt;Técnico/a DGAE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a09fa3;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="1935" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-162" value="Não" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-62" target="m0IQ9tP__pudJ74qpNvk-158">
@@ -608,19 +608,10 @@
             <mxPoint x="520" y="1905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-163" value="&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(24, 20, 29); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Pedido de revisão da&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(240, 240, 240); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(24, 20, 29); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;análise&amp;nbsp;&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-158" target="m0IQ9tP__pudJ74qpNvk-63">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="254.5" y="1835" as="sourcePoint" />
-            <mxPoint x="89.99999999999977" y="1739" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="217.5" y="1739" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-164" value="Despacho deferido?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364.25" y="2140" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-166" value="DD notifica &lt;br&gt;Diretor/a de &lt;br&gt;Serviços" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-166" value="DD notifica &lt;br&gt;Diretor/a de &lt;br&gt;Serviços DGAE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a09fa3;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="157.5" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m0IQ9tP__pudJ74qpNvk-167" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-61" target="m0IQ9tP__pudJ74qpNvk-164">
@@ -641,20 +632,41 @@
             <mxPoint x="344.5" y="2060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-170" value="DD notifica &lt;br&gt;Requerente" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="329.25" y="2255" width="140" height="60" as="geometry" />
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-170" value="DD notifica &lt;br&gt;Requerente / &lt;br&gt;DGEstE /&lt;br&gt;DGE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#a09fa3;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2270" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-171" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-164">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="2290" as="sourcePoint" />
-            <mxPoint x="410" y="2250" as="targetPoint" />
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-174" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-164" target="m0IQ9tP__pudJ74qpNvk-170">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="2260" as="sourcePoint" />
+            <mxPoint x="420" y="2260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m0IQ9tP__pudJ74qpNvk-173" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-170" target="m0IQ9tP__pudJ74qpNvk-108">
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-175" value="Decisão confirmada: deferida ou indeferida" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="m0IQ9tP__pudJ74qpNvk-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-176" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-170" target="m0IQ9tP__pudJ74qpNvk-108">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="2220" as="sourcePoint" />
-            <mxPoint x="670" y="2170" as="targetPoint" />
+            <mxPoint x="190" y="2320" as="sourcePoint" />
+            <mxPoint x="240" y="2270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-177" value="Pedido de revisão&lt;br&gt;da análise técnica" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m0IQ9tP__pudJ74qpNvk-158" target="m0IQ9tP__pudJ74qpNvk-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1800" as="sourcePoint" />
+            <mxPoint x="190" y="1750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="1739" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-178" value="Técnico/a DGAE&lt;br&gt;inicia análise técnica do pedido" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8da72;fontColor=#0d0c0c;" vertex="1" parent="1">
+          <mxGeometry x="343.75" y="1494" width="131" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-179" value="Enquadramento legislativo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8da72;fontColor=#0d0c0c;" vertex="1" parent="1">
+          <mxGeometry x="252" y="1614" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m0IQ9tP__pudJ74qpNvk-180" value="Determinação da proposta" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d8da72;fontColor=#0d0c0c;" vertex="1" parent="1">
+          <mxGeometry x="364.25" y="1614" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
