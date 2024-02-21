@@ -1,9 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T23:33:35.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" version="23.1.5" etag="3FHZHWXwHvoF6AQLj5nO" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T23:50:09.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="tihW1v5EGN--cYrZN9Kr" version="23.1.5" type="github">
   <diagram name="Página-1" id="dFTAs2IF8Lx8Y3ALcDrZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1072" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MVtnzUydbldeGfZd5zMT-1" value="Denunciante" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="23" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-2" value="Canal de Denuncia Externo" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="273" y="40" width="267" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-10" value="http://&lt;a href=&quot;https://ddev-qua.dgeste.min-educ.pt/anon.wgx&quot;&gt;ddev-qua.dgeste.min-educ.pt/anon.wgx&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MVtnzUydbldeGfZd5zMT-2">
+          <mxGeometry x="10" y="38" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-11" value="Acesso sem autenticação&lt;br&gt;&lt;br&gt;Geração de token key para garantir anonimato" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MVtnzUydbldeGfZd5zMT-2">
+          <mxGeometry x="-3" y="90" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-3" value="Monitorizador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-4" value="Tratador/Monitorizador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MVtnzUydbldeGfZd5zMT-1" target="MVtnzUydbldeGfZd5zMT-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="153" y="110" as="sourcePoint" />
+            <mxPoint x="273" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-6" value="Submeter denúncia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#6666FF;" vertex="1" connectable="0" parent="MVtnzUydbldeGfZd5zMT-5">
+          <mxGeometry x="-0.1846" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MVtnzUydbldeGfZd5zMT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="33" y="130" as="sourcePoint" />
+            <mxPoint x="273" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-8" value="Consultar denúncia&lt;br&gt;Editar denúncia&lt;br&gt;Desistir da denúncia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#6666FF;" vertex="1" connectable="0" parent="MVtnzUydbldeGfZd5zMT-7">
+          <mxGeometry x="-0.1846" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MVtnzUydbldeGfZd5zMT-2" target="MVtnzUydbldeGfZd5zMT-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="270" as="sourcePoint" />
+            <mxPoint x="793" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-13" value="Receber denúncia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MVtnzUydbldeGfZd5zMT-12">
+          <mxGeometry x="-0.2121" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MVtnzUydbldeGfZd5zMT-3" target="MVtnzUydbldeGfZd5zMT-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="738" y="160" as="sourcePoint" />
+            <mxPoint x="463" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-16" value="Encaminhar denúncia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MVtnzUydbldeGfZd5zMT-15">
+          <mxGeometry x="-0.1091" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.004;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MVtnzUydbldeGfZd5zMT-3" target="MVtnzUydbldeGfZd5zMT-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="190" as="sourcePoint" />
+            <mxPoint x="570" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVtnzUydbldeGfZd5zMT-18" value="Efetuar tratamento&lt;br&gt;Alterar estado&lt;br&gt;Pedir informação adicional" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MVtnzUydbldeGfZd5zMT-17">
+          <mxGeometry x="0.0719" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
