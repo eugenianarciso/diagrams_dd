@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T23:50:09.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="tihW1v5EGN--cYrZN9Kr" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T23:51:26.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="eg2ta_qx-GR3LnWX-nlY" version="23.1.5" type="github">
   <diagram name="Página-1" id="dFTAs2IF8Lx8Y3ALcDrZ">
     <mxGraphModel dx="1072" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
             <mxPoint x="273" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MVtnzUydbldeGfZd5zMT-8" value="Consultar denúncia&lt;br&gt;Editar denúncia&lt;br&gt;Desistir da denúncia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#6666FF;" vertex="1" connectable="0" parent="MVtnzUydbldeGfZd5zMT-7">
+        <mxCell id="MVtnzUydbldeGfZd5zMT-8" value="Consultar denúncia&lt;br&gt;Editar denúncia&lt;br&gt;Desistir da denúncia" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#6666FF;fillColor=#66B2FF;" vertex="1" connectable="0" parent="MVtnzUydbldeGfZd5zMT-7">
           <mxGeometry x="-0.1846" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
